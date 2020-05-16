@@ -1,6 +1,17 @@
 ---
 title: "About"
-date: 2020-05-16T13:13:08-04:00
+date: 2020-05-16T15:24:26-04:00
 draft: true
 ---
-This is something I wrote
+
+# First of all 
+
+text text text
+
+## second of all
+
+text text
+
+### Third of all
+
+text
